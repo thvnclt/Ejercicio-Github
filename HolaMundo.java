@@ -1,6 +1,5 @@
 public class Principal {
     public static void main(String[] args) {
         System.out.println("Hola, este es mi proyecto de GitHub");
-        System.out.println("Añadiendo info");
     }
 }
